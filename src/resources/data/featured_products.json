@@ -1,0 +1,32 @@
+[
+    {
+        "rating" : "3",
+        "name" : "Moderate Cosmetic Damage",
+        "damage" : "Moderate",
+        "discount" : "Massive",
+        "tag" : "Best Value",
+        "tagIcon" : "fa-used-circle",
+        "image" : "./featured0.png",
+        "tagColor" : "bg-blue-600"
+    },
+    {
+        "rating" : "4",
+        "name" : "Minor Cosmetic Damage",
+        "damage" : "Minor",
+        "discount" : "Huge",
+        "tag" : "Most Popular",
+        "tagIcon" : "fa-fire",
+        "image" : "./featured0.png",
+        "tagColor" : "bg-teal-600"
+    },
+    {
+        "rating" : "5",
+        "name" : "Very Minor To No Cosmetic Damage",
+        "damage" : "Very Minor- None",
+        "discount" : "Great",
+        "tag" : "Premium Condition",
+        "tagIcon" : "fa-star-half-alt",
+        "image" : "./featured0.png",
+        "tagColor" : "bg-yellow-600"
+    }
+]
